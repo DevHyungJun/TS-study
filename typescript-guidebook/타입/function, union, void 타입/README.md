@@ -1,6 +1,6 @@
 ## 함수 매개변수 타입
 
-다음 코드는 JS에서 문제가 없지만 `tsconfig.json`에 설정된 [`noImplicitAn](https://yamoo9.gitbook.io/typescript/cli-env/tsconfig#tsconfig-json)y`설정 값이`true`일 경우, 명시적으로 타입 설정을 하지 않아 컴파일 시 다음과 같은 오류를 출력한다.
+다음 코드는 JS에서 문제가 없지만 `tsconfig.json`에 설정된 `noImplicitAn`설정 값이`true`일 경우, 명시적으로 타입 설정을 하지 않아 컴파일 시 다음과 같은 오류를 출력한다.
 
 ```tsx
 // [오류]

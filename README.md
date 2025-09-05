@@ -9,3 +9,8 @@
      - tuple 타입
      - enum 타입
      - function, union, void 타입
+     - object 타입
+     - null, undefined 타입
+     - never 타입
+     - 사용자 정의 타입
+     - 타입 어설션

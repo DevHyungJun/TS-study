@@ -2,7 +2,7 @@
 
 즉, 어떠한 객체를 생성 했을 때 가져야 할 속성 또는 메서드를 정의한다고 보면 된다.
 
-클래스 Y9Button에 implements키워드를 사용해 정의된 ButtonInterface 인터페이스를 생성할 수 있다.
+클래스 `Y9Button`에 `implements`키워드를 사용해 정의된 `ButtonInterface`인터페이스를 생성할 수 있다.
 
 이는 클래스가 인터페이스에 정의된 실행 규칙을 따라야 함을 선언한 것이다.
 

@@ -45,7 +45,7 @@ const button: ButtonInterface = {
 
 그래서 오류 메시지를 살펴보면 알려진 속성만 지정할 수 있다고 안내하는 것이다.
 
-이 문제를 해결할 첫 번째 방법은 tsconfig.json설정 파일의 noImlictAny옵션 값을 flase로 변경하는 것이다.
+이 문제를 해결할 첫 번째 방법은 `tsconfig.json`설정 파일의 `noImlictAny`옵션 값을 `flase`로 변경하는 것이다.
 
 하지만 TS 프로그래밍 시, 암묵적으로 any 타입을 사용하는 것을 피하고자 한다면 좋을 방법이 될 수 없다.
 
